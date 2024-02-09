@@ -1,0 +1,7 @@
+load_b 12
+load_c -1
+add
+dump
+prints coucou
+mov_b
+jne -5

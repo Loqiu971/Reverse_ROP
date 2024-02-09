@@ -1,0 +1,11 @@
+fetch_buf bizarre
+printd 7
+load_b 15
+push_b
+pop_si
+swapdisi
+load_b 3
+push_b
+pop_a
+movmem
+printd 7
